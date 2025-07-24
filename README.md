@@ -1,2 +1,2 @@
 # Crow-s-Nest-Server-
-This is the server for the chat application called (Crow's Nest)
+This is the server for a chat application called (Crow's Nest)
